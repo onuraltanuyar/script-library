@@ -1,1 +1,1 @@
-deneme
+#### Script (Betik) repo bölümü.
